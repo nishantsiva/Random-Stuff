@@ -1,0 +1,7 @@
+5
+iphone, 65000, Phone, Electronics
+ipad, 35000, Tablet, Electronics
+ipod, 6000, Gadget, Electronics
+sony Tv, 65000, Television, Electronics
+lux, 30, Beauty Soap, Household
+Electronics

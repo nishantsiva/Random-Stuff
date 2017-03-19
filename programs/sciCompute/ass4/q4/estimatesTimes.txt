@@ -1,0 +1,110 @@
+1024*1
+Elapsed Time(MIN) = 0.064736
+MIN = 4.932609
+Elapsed Time(MAX) = 0.03318
+MAX = 1019.363220
+Elapsed Time(STD) = 0.03318
+STD = 22.366438
+Elapsed Time(kurtosis) = 0.03318
+Kurtosis = 0.001999
+
+2
+Elapsed Time(MIN) = 0.051328
+MIN = 0.293314
+Elapsed Time(MAX) = 0.02461
+MAX = 2038.674683
+Elapsed Time(STD) = 0.02461
+STD = 32.226276
+Elapsed Time(kurtosis) = 0.02461
+Kurtosis = 0.000963
+
+4
+Elapsed Time(MIN) = 0.051264
+MIN = 3.677021
+Elapsed Time(MAX) = 0.02707
+MAX = 4090.405518
+Elapsed Time(STD) = 0.02707
+STD = 45.474152
+Elapsed Time(kurtosis) = 0.02707
+Kurtosis = 0.000484
+
+8
+Elapsed Time(MIN) = 0.064128
+MIN = 8.613274
+Elapsed Time(MAX) = 0.03456
+MAX = 8178.490723
+Elapsed Time(STD) = 0.03456
+STD = 64.060120
+Elapsed Time(kurtosis) = 0.03456
+Kurtosis = 0.000244
+
+16
+Elapsed Time(MIN) = 0.129152
+MIN = 11.002213
+Elapsed Time(MAX) = 0.05235
+MAX = 16369.491211
+Elapsed Time(STD) = 0.05235
+STD = 90.750023
+Elapsed Time(kurtosis) = 0.05235
+Kurtosis = 0.000121
+
+32
+Elapsed Time(MIN) = 0.188768
+MIN = 63.828598
+Elapsed Time(MAX) = 0.08694
+MAX = 32741.654297
+Elapsed Time(STD) = 0.08694
+STD = 128.491547
+Elapsed Time(kurtosis) = 0.08694
+Kurtosis = 0.000061
+
+64
+Elapsed Time(MIN) = 0.301344
+MIN = 172.292542
+Elapsed Time(MAX) = 0.15360
+MAX = 65354.761719
+Elapsed Time(STD) = 0.15360
+STD = 181.214020
+Elapsed Time(kurtosis) = 0.15360
+Kurtosis = 0.000030
+
+128
+Elapsed Time(MIN) = 0.434752
+MIN = 181.338501
+Elapsed Time(MAX) = 0.28445
+MAX = 131064.765625
+Elapsed Time(STD) = 0.28445
+STD = 255.673721
+Elapsed Time(kurtosis) = 0.28445
+Kurtosis = 0.000015
+
+256
+Elapsed Time(MIN) = 0.891040
+MIN = 570.540161
+Elapsed Time(MAX) = 0.57018
+MAX = 261131.843750
+Elapsed Time(STD) = 0.57018
+STD = 362.114441
+Elapsed Time(kurtosis) = 0.57018
+Kurtosis = 0.000008
+
+512
+Elapsed Time(MIN) = 2.573248
+MIN = 0.439697
+Elapsed Time(MAX) = 1.08698
+MAX = 524285.625000
+Elapsed Time(STD) = 1.08698
+STD = 511.795410
+Elapsed Time(kurtosis) = 1.08698
+Kurtosis = 0.000004
+
+1024
+Elapsed Time(MIN) = 3.714784
+MIN = 1.324219
+Elapsed Time(MAX) = 2.12653
+MAX = 1048575.250000
+Elapsed Time(STD) = 2.12653
+STD = 723.995789
+Elapsed Time(kurtosis) = 2.12653
+Kurtosis = 0.000002
+

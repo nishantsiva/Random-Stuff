@@ -1,0 +1,4 @@
+Complexity(DLX)
+Suppose that in a given node we have a n \times m matrix. In the naive approach, for each candidate row we need to go through all of the rows and columns to generate a new matrix, leading to a O(n^2m) complexity for each node.
+In the worst case, using a sparse matrix will lead to the same complexity, but hard set cover instances are generally sparse, so in practice we may have a performance boost. Also, since we do everything in-place, our memory footprint is considerably smaller.
+

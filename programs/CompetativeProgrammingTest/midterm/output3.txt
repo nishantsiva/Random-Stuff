@@ -1,0 +1,9 @@
+Case 1: 4
+Case 2: 13340
+Case 3: 35632
+Case 4: 3531
+Case 5: 5
+Case 6: 51
+Case 7: 151
+Case 8: 13
+Case 9: 1313

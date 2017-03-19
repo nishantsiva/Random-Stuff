@@ -1,0 +1,25 @@
+Group Members:
+	Nishant S		MT2014079
+	Arun K			MT2014016
+	Praveen Baby	MT2014089
+
+Linux Machines IP Address
+	Router
+		eth0	: 10.100.100.79
+		wlan0	: 192.168.14.79
+		
+	Wireless Machine
+		wlan0	: 192.168.14.16
+		
+	Wired Machine
+		eth0	: 10.100.100.89
+		
+Observations:
+- Configured router, wired and wireless Linux Machines.
+- Successfully pinged wired, wireless and router amongst each other.
+- Observed the ping packet flows in wireshark.
+- Performed NAT in router.
+- Pinged google.com from both wired and wireless terminals.
+- Observed the ping to google.com statistics in wireshark.
+- Blocked and unblocked wired and wireless ip's seperately by the router.
+- Observed the ping packet getting dropped in wireshark in router from wired and wireless machine seperately.

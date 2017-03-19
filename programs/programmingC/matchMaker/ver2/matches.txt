@@ -1,0 +1,4 @@
+relational,database;2/3=0.67;relational,database,RDBMS,is,a,widely,used,technology,for
+database,transactions,SQL;2/4=0.50;once,data,enters,the,database,transactions,play,a,crucial,role
+transactions,data,ACID;3/3=1.00;data,integrity,is,maintained,using,ACID,properties,for,transactions
+SQL,ACID,transactions;3/4=0.75;SQL,language,provides,transactions,to,query,and,manipulate,data,while,preserving,ACID,properties
